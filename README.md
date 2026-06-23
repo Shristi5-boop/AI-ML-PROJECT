@@ -5,7 +5,7 @@
 A book recommendation system that suggests books to users based on [genre / ratings / collaborative filtering / content-based filtering]. Built for [college project / learning purpose].
 
 ## Demo
-Live Link: [agar deploy kiya hai to daal de, nahi to hata de ye line]
+Live Link: []
 
 ## Features
 - Recommends top 5 similar books based on user input
